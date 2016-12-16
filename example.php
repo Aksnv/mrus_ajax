@@ -1,5 +1,3 @@
 <?php  
-  if ($_POST["login"] == "admin") {
-    echo "error";
-  }
+  if ($_POST["login"] == "admin") echo "error";
 ?>
